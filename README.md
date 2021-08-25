@@ -15,4 +15,4 @@ $ git clone https://github.com/Killarboy/Killarboy
 
 $ cd Killarboy
 
-$ bash S.sh 
+$ bash Wish-akhi.sh 
