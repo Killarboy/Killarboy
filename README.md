@@ -1,4 +1,4 @@
-#Brithday-wish
+# Brithday-wish
 
 
 $ apt update
