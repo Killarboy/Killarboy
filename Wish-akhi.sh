@@ -1,4 +1,3 @@
-
 echo ╭╮╱╭╮|lolcat 
 echo ┃┃╱┃┃|lolcat 
 echo ┃╰━╯┣━━┳━━┳━━┳╮╱╭╮|lolcat 
