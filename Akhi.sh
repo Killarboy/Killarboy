@@ -1,41 +1,33 @@
-echo ╭╮╱╭╮|lolcat 
-echo ┃┃╱┃┃|lolcat 
-echo ┃╰━╯┣━━┳━━┳━━┳╮╱╭╮|lolcat 
-echo ┃╭━╮┃╭╮┃╭╮┃╭╮┃┃╱┃┃|lolcat 
-echo ┃┃╱┃┃╭╮┃╰╯┃╰╯┃╰━╯┃|lolcat 
-echo ╰╯╱╰┻╯╰┫╭━┫╭━┻━╮╭╯|lolcat 
-echo ╱╱╱╱╱╱╱┃┃╱┃┃╱╭━╯┃|lolcat 
-echo ╱╱╱╱╱╱╱╰╯╱╰╯╱╰━━╯|lolcat 
+echo 
+echo 
+echo     ╭╮╱╭╮╭━━━╮╭━━━╮╭━━━╮╭╮╱╱╭╮| lolcat
+echo     ┃┃╱┃┃┃╭━╮┃┃╭━╮┃┃╭━╮┃┃╰╮╭╯┃| lolcat 
+echo     ┃╰━╯┃┃┃╱┃┃┃╰━╯┃┃╰━╯┃╰╮╰╯╭╯| lolcat 
+echo     ┃╭━╮┃┃╰━╯┃┃╭━━╯┃╭━━╯╱╰╮╭| lolcat 
+echo     ┃┃╱┃┃┃╭━╮┃┃┃╱╱╱┃┃╱╱╱╱╱┃┃| lolcat 
+echo     ╰╯╱╰╯╰╯╱╰╯╰╯╱╱╱╰╯╱╱╱╱╱╰╯| lolcat 
 echo 
 echo 
 echo 
 echo 
 echo 
-echo 
-echo 
-echo ╭━━╮╱╱╱╭╮╭╮╱╱╱╭╮|lolcat 
-echo ┃╭╮┃╱╱╭╯╰┫┃╱╱╱┃┃|lolcat 
-echo ┃╰╯╰┳━╋╮╭┫╰━┳━╯┣━━┳╮╱╭╮|lolcat 
-echo ┃╭━╮┃╭╋┫┃┃╭╮┃╭╮┃╭╮┃┃╱┃┃|lolcat 
-echo ┃╰━╯┃┃┃┃╰┫┃┃┃╰╯┃╭╮┃╰━╯┃|lolcat 
-echo ╰━━━┻╯╰┻━┻╯╰┻━━┻╯╰┻━╮╭╯|lolcat 
-echo ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┃|lolcat 
-echo ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯|lolcat 
+echo     ╭━━╮╱╭━━╮╭━━━╮╭━━━━╮╭╮╱╭╮╭━━━╮╭━━━╮╭╮╱╱╭╮| lolcat 
+echo     ┃╭╮┃╱╰┫┣╯┃╭━╮┃┃╭╮╭╮┃┃┃╱┃┃╰╮╭╮┃┃╭━╮┃┃╰╮╭╯┃| lolcat 
+echo     ┃╰╯╰╮╱┃┃╱┃╰━╯┃╰╯┃┃╰╯┃╰━╯┃╱┃┃┃┃┃┃╱┃┃╰╮╰╯╭╯| lolcat 
+echo     ┃╭━╮┃╱┃┃╱┃╭╮╭╯╱╱┃┃╱╱┃╭━╮┃╱┃┃┃┃┃╰━╯┃╱╰╮╭╯| lolcat 
+echo     ┃╰━╯┃╭┫┣╮┃┃┃╰╮╱╱┃┃╱╱┃┃╱┃┃╭╯╰╯┃┃╭━╮┃╱╱┃┃ | lolcat 
+echo     ╰━━━╯╰━━╯╰╯╰━╯╱╱╰╯╱╱╰╯╱╰╯╰━━━╯╰╯╱╰╯╱╱╰╯ | lolcat 
 echo 
 echo 
 echo 
 echo 
-echo 
-echo 
-echo ╭━━━━╮|lolcat 
-echo ┃╭╮╭╮┃|lolcat 
-echo ╰╯┃┃┣┻━╮╭╮╱╭┳━━┳╮╭╮|lolcat 
-echo ╱╱┃┃┃╭╮┃┃┃╱┃┃╭╮┃┃┃┃|lolcat 
-echo ╱╱┃┃┃╰╯┃┃╰━╯┃╰╯┃╰╯┃|lolcat 
-echo ╱╱╰╯╰━━╯╰━╮╭┻━━┻━━╯|lolcat 
-echo ╱╱╱╱╱╱╱╱╭━╯┃|lolcat 
-echo ╱╱╱╱╱╱╱╱╰━━╯|lolcat 
-echo 
+echo     ╭━━━━╮╭━━━╮╭╮╱╱╭╮╭━━━╮╭╮╱╭╮| lolcat 
+echo     ┃╭╮╭╮┃┃╭━╮┃┃╰╮╭╯┃┃╭━╮┃┃┃╱┃┃| lolcat 
+echo     ╰╯┃┃╰╯┃┃╱┃┃╰╮╰╯╭╯┃┃╱┃┃┃┃╱┃┃| lolcat 
+echo     ╱╱┃┃╱╱┃┃╱┃┃╱╰╮╭╯╱┃┃╱┃┃┃┃╱┃┃| lolcat 
+echo     ╱╱┃┃╱╱┃╰━╯┃╱╱┃┃╱╱┃╰━╯┃┃╰━╯┃| lolcat 
+echo     ╱╱╰╯╱╱╰━━━╯╱╱╰╯╱╱╰━━━╯╰━━━╯|lolcat 
+echo
 echo 
 echo 
 echo 
