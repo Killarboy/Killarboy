@@ -72,7 +72,7 @@ echo ░░░█ |lolcat
 echo ░░█░░░░███████ |lolcat 
 echo ░██░░░██▓▓███▓██▒ |lolcat 
 echo ██░░░█▓▓▓▓▓▓▓█▓████ |lolcat 
-echo ██░░██▓▓▓(◐)▓█▓█▓█ |lolcat 
+echo ██░░██▓▓▓  o  ▓█▓█▓█ |lolcat 
 echo ███▓▓▓█▓▓▓▓▓█▓█▓▓▓▓█ |lolcat 
 echo ▀██▓▓█░██▓▓▓▓██▓▓▓▓▓█ |lolcat 
 echo ░▀██▀░░█▓▓▓▓▓▓▓▓▓▓▓▓▓█ |lolcat 
